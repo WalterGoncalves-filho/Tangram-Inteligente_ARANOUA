@@ -25,7 +25,10 @@ Este projeto visa não apenas ensinar conceitos de geometria e resolução de pr
 ### Vídeo Arduino - Tinkercad 
 
 
-https://github.com/WalterGoncalves-filho/assets/feefcd4a-6a05-42fc-8d22-82deca3148c9
+
+https://github.com/user-attachments/assets/9d984068-8d0d-4657-b1f0-41fdffd8c900
+
+
 
 
 
