@@ -45,7 +45,8 @@ https://github.com/user-attachments/assets/9d984068-8d0d-4657-b1f0-41fdffd8c900
 
 ### II Mostra de Projetos da Formação Educadores do Século 21
 
-[![Instagram](https://img.shields.io/badge/II%20Mostra%20de%20Projetos%20da%20Formação%20Educadores%20do%20Século%2021-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p/C7mp3Civ6Gm/)
+<!--[![Instagram](https://img.shields.io/badge/II%20Mostra%20de%20Projetos%20da%20Formação%20Educadores%20do%20Século%2021-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p/C7mp3Civ6Gm/)--->
+[II Mostra de Projetos da Formação Educadores do Século 21](https://www.instagram.com/p/C7mp3Civ6Gm/)
 
 
 
